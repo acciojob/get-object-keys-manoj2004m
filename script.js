@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const object1{
+const object1={
  name: "Manoj",
    
 	
