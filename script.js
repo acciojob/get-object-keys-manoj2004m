@@ -1,7 +1,8 @@
 //your JS code here. If required.
-const object1={
+let object1={
  name: "Manoj",
-   
+   age: 33,
+	city: "Pune"
 	
 };
 
